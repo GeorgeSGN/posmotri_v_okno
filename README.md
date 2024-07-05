@@ -13,6 +13,9 @@
 
 1. Клонируйте репозиторий на свой локальный компьютер:
 
+   ```
+   https://github.com/GeorgeSGN/posmotri_v_okno.git
+   ```
    ```sh
    git clone <URL вашего репозитория>
    ```
